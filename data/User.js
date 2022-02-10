@@ -1,0 +1,26 @@
+export const USERS=[
+  {
+    user:'abhaygupta',
+    image:'https://i.imgur.com/cU4nx1Y.jpg',
+  },
+  {
+    user:'amitgupta',
+    image:'https://i.imgur.com/6d9OqCd.jpeg',
+  },
+  {
+    user:'bimalesh',
+    image:'https://i.imgur.com/dxjd7FB.jpg',
+  },
+  {
+    user:'bali',
+    image:'https://i.imgur.com/6d9OqCd.jpeg',
+  },
+  {
+    user:'reyan',
+    image:'https://i.imgur.com/dxjd7FB.jpg',
+  },
+  {
+    user:'instagram',
+    image:'https://i.imgur.com/dxjd7FB.jpg',
+  },
+]
